@@ -14,6 +14,7 @@ Simple-Shell can run in two different modes: <br/>
 - Output redirection ✅
 - Parallel commands ❎
 - Piped commands ❎
+- Relative paths ❎
 
 # Running
 - to compile the program:
